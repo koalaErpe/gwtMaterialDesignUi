@@ -1,5 +1,4 @@
-# gwtMaterialDesignUi
-Material Design base user interface for gwt application
+# Ui-api
 
 Packages name pattern:
-pl.korbeldaniel.gmdui.*
+pl.korbeldaniel.ui.*
