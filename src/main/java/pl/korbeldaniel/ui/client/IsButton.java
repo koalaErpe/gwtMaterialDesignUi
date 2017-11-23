@@ -1,4 +1,4 @@
-package pl.korbeldaniel.ui;
+package pl.korbeldaniel.ui.client;
 
 import com.google.gwt.user.client.ui.IsWidget;
 import com.google.gwt.user.client.ui.Widget;
